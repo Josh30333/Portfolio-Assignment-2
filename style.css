@@ -1,0 +1,11 @@
+body {
+    background-color:rgb(101, 96, 96);}
+
+.header {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+    Width: 200px;
+
+}
