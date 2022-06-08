@@ -9,3 +9,7 @@ body {
     Width: 200px;
 
 }
+
+.links {
+    list-style-type: square;
+}
